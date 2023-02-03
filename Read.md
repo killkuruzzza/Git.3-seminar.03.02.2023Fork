@@ -5,3 +5,6 @@ Third seminar about Git. Created my repository.
 11:14
 
 Kirill Moiseev
+
+ываываыва
+ываываываыв
